@@ -8,7 +8,7 @@
 
 <br>
 
-## Team Members
+### Team Members
 
 | David Prutch | Natasha Siramarco | Raheem Reed | Dustin Haggett|
 |:---------------:|:----------:|:------------------:|:------------:|
