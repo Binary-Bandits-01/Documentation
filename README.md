@@ -1,5 +1,5 @@
 # Documentation - Complete read.me
-
+This  GitHub repository serves as a comprehensive repository for storing and managing all essential documentation related to this red team project.
 #### to add
 - team agreement - added
 - topology
