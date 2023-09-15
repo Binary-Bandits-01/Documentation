@@ -1,8 +1,11 @@
 # Documentation - Complete read.me
 This  GitHub repository serves as a comprehensive repository for storing and managing all essential documentation related to this red team project.
-#### to add
-- team agreement - added
-- topology
+
+[Team Agreement](https://github.com/Binary-Bandits-01/Documentation/blob/main/Team%20Documents/ops-401d8%20RedTeamV2%20Team%20Agreement.pdf)
+
+[Rules of Engagement]()
+
+[SimCorp Topology](https://github.com/Binary-Bandits-01/Documentation/blob/main/Simcorp%20Topology.drawio.png)
 
 
 
